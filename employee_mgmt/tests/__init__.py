@@ -1,6 +1,6 @@
 """Test suite package for the Employee Management backend module.
 
-Marks `modules/employee_mgmt/tests` as a Python package for deterministic
+Marks `employee_mgmt/tests` as a Python package for deterministic
 `pytest` discovery and defines shared test-only tenant and environment
 constants.
 """
